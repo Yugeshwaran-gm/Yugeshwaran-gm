@@ -56,6 +56,6 @@ I'm a tech enthusiast with a strong foundation in programming and web developmen
 
 ## 📈 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=Yugeshwaran-gm&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Yugeshwaran-gm&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
