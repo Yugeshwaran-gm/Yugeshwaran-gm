@@ -68,9 +68,4 @@ Currently, I'm focused on sharpening my skills through open-source projects, cod
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
 
-## 📈 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Yugeshwaran-gm&icon=0&color=0"/>
-</p>
