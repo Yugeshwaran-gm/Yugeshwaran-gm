@@ -2,6 +2,8 @@
 🎓 MCA Student | 💻 Aspiring Full Stack Developer | 🚀 Passionate about building practical projects
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Yugeshwaran-gm&color=green)
+---
 
 ## 💼 About Me:
 I'm a tech enthusiast with a strong foundation in programming and web development. I enjoy solving problems, exploring new technologies, and building real-world applications using the **MERN stack**, **Python**, and more. Currently, I'm focused on sharpening my skills through open-source projects, coding challenges, and continuous learning.
@@ -54,8 +56,7 @@ I'm a tech enthusiast with a strong foundation in programming and web developmen
 
 ---
 
-## 📈 Visitor Count
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yugeshwaran-gm&color=green)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
