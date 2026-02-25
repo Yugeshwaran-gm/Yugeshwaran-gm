@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=24A1DF&width=250&lines=Yugeshwaran+G+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=24A1DF&width=250&lines=Hi+I'm+Yugeshwaran+G+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 💼 About Me
 
 🎓 MCA Student  
-💻 Aspiring Full Stack Developer (MERN / Python)  
+💻 Aspiring Full Stack Developer (MERN & Python)  
 🚀 Passionate about building practical projects  
 🏅 Problem solver · Open-source enthusiast
 
@@ -28,12 +28,13 @@
 
 ## 🔥 Featured Projects
 
-| Project                         | Description                                      | Tech Stack                                     | Link                                                                 |
-|----------------------------------|--------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------|
-| Timetable Reminder System        | Full-stack web app with reminders & authentication| Flask, MongoDB, Python                         | [Repo](https://github.com/Yugeshwaran-gm/timetable_remainder_python) |
-| MobileHub Landing Page           | Responsive e-commerce landing page                | HTML5, CSS3, JavaScript                        | [Repo](https://github.com/Yugeshwaran-gm/Codsoft_Landingpage)        |
-| LeetCode Solutions Library       | Curated DSA solutions and notes                  | Python, Java, C                                | [Repo](https://github.com/Yugeshwaran-gm/Leetcode-submissions)       |
-
+| Project | Description | Tech Stack | Link |
+|----------|------------|------------|------|
+| **Speech Notes App** | Full-stack application with voice-to-text typing and PDF export functionality. | React, Vite, FastAPI, PostgreSQL | [Repository](https://github.com/Yugeshwaran-gm/Speech_recognition_notes_python) |
+| **WorkHunt (Job Platform)** | Role-based job platform with authentication and real-time messaging system. | MongoDB, Express.js, React.js, Node.js | [Repository](https://github.com/Yugeshwaran-gm/Job-Portal-) |
+| **Timetable Reminder System** | Full-stack web application with reminders and secure authentication. | Flask, MongoDB, Python | [Repository](https://github.com/Yugeshwaran-gm/timetable_remainder_python) |
+| **Personal Portfolio** | Developer portfolio showcasing projects, skills, and achievements. | React, Material-UI | [Repository](https://github.com/Yugeshwaran-gm/Portfolio_) |
+| **LeetCode Solutions Library** | Curated collection of DSA solutions and problem-solving notes. | Python, Java, C | [Repository](https://github.com/Yugeshwaran-gm/Leetcode-submissions) |
 ---
 
 ## 🛠️ Tech Stack
