@@ -74,16 +74,14 @@
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugeshwaran-gm&theme=nord&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yugeshwaran-gm&theme=nord&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugeshwaran-gm&theme=nord&hide_border=true&layout=compact&border_radius=10" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yugeshwaran-gm&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150"/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yugeshwaran-gm&theme=merko&hide_border=false" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugeshwaran-gm&theme=merko&hide_border=false&layout=compact" height="150"/> -->
 </p>
 
 ---
-
 ## ✍️ Inspirational Quote
 
 <p align="center">
