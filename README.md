@@ -77,9 +77,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yugeshwaran-gm&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150"/> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yugeshwaran-gm&theme=merko&hide_border=false" height="150"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugeshwaran-gm&theme=merko&hide_border=false&layout=compact" height="150"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yugeshwaran-gm&theme=merko&show_icons=true&count_private=true" height="150"/> -->
+  <img src="https://streak-stats.demolab.com?user=Yugeshwaran-gm&theme=merko" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugeshwaran-gm&theme=merko&layout=compact" height="150"/> -->
 </p>
 
 ---
