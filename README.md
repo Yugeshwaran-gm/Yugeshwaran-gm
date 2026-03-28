@@ -71,7 +71,7 @@
 - 🔭 Building full-stack MERN & Python projects
 - 📚 Learning advanced system design and microservices
 - 👯 Looking to collaborate on open-source and real-world projects
-- 🤝 Open to internship opportunities and networking with professionals
+- 🤝 Open to Job opportunities and networking with professionals
 
 ---
 
